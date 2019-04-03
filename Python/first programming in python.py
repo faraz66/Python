@@ -1,0 +1,5 @@
+name = input("Enter your name \n")
+age = input("Enter your age\n")
+admission = input("Enter your date of admission\n")
+print("Your name is ",name,"Your age is ",age,"And your date of admission is ",admission)
+input("PRESS ENTRE TO EXIT")
